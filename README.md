@@ -1,5 +1,6 @@
 # Simple-Games-Python
 Games I've written on Python as I was trying to learn the ins and outs of the Programming Language. 
+- Games could be played by just copying files and running them on your local machine! Some may involve additional libraries like python turtle.
 
 
 # Hangman 
@@ -51,4 +52,9 @@ Concepts Reviewed : OOP, Inheritance, Collision detection mechanics
 Remake of classic game of Pong
 
 Concepts Reviewed : OOP, Inheritance, Collision detection, GUI 
+
+# Turtle Crossing
+Crossy Road but make it python! 
+
+Concepts reviewed : OOP , Inheritance, Collision Detection, GUI, Random 
 
